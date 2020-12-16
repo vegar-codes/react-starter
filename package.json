@@ -1,0 +1,19 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Et starter-prosjekt for React-apper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegar-codes/react-starter.git"
+  },
+  "author": "Vegar Norman <vegar.norman@kristiania.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vegar-codes/react-starter/issues"
+  },
+  "homepage": "https://github.com/vegar-codes/react-starter#readme"
+}
