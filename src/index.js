@@ -1,9 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import App from './app/App';
+
 ReactDOM.render(
-  <h1>Hello ma baby</h1>,
-  document.getElementById('app')
+  <App />,
+  document.getElementById('root')
 );
 
 module.hot.accept();
