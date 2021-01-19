@@ -29,7 +29,7 @@ module.exports = () => {
       }),
       new CopyPlugin({
         patterns: [
-          {from: './other'}
+          {from: './other', noErrorOnMissing: true}
         ],
       }),
       new webpack.HotModuleReplacementPlugin()
